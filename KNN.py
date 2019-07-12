@@ -2,7 +2,7 @@
 """
 Created on Fri Jan 11 11:19:02 2019
 
-@author: s16154368
+@author: jaycross
 """
 
 import os
